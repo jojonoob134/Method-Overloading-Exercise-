@@ -30,7 +30,7 @@ namespace MethodOverloading
             }
             else
             {
-                Console.WriteLine("you have no dollars");
+                Console.WriteLine(total);
             }
         }
     }
